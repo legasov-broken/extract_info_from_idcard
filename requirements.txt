@@ -39,4 +39,4 @@ thop  # FLOPs computation
 # roboflow
 gdown
 vietocr
-
+json
